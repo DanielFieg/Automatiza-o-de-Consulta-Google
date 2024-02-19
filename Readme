@@ -1,0 +1,12 @@
+Passos para melhor desempenho da automação:
+- Para melhor desempenho, manter o Chrome atualizado na sua última versão.
+- Acessar a pasta dist -> Clicando no app.exe
+* OBS: Importante não mexer no computador enquanto o programa está rodando, para evitar interferência e erros. *
+- Iniciando o arquivo executavel, aguarde alguns minutinhos até que apareça a seguinte linha de comando: "Digite o termo de pesquisa:"
+- Digite o termo que deseja iniciar a busca.
+- Após digitar o termo desejado, o sistema ira iniciar a busca de títulos, links e descrições da primeira pagina do google.
+- Após a busca completa na primeira pagina, o sistema irá gerar um excel.
+- O excel estará localizado na pasta dist com nome: pesquisa_ "Termo pesquisado".
+
+Vídeo para auxiliar no  entendimento: 
+https://drive.google.com/file/d/1COCI6gxT0g1gXFvqxSKbOVv740Ngr8T_/view?usp=sharing
