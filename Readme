@@ -1,5 +1,6 @@
 Passos para melhor desempenho da automação:
 - Para melhor desempenho, manter o Chrome atualizado na sua última versão.
+- Desabilitar avast para que evite problemas.
 - Acessar a pasta dist -> Clicando no app.exe
 * OBS: Importante não mexer no computador enquanto o programa está rodando, para evitar interferência e erros. *
 - Iniciando o arquivo executavel, aguarde alguns minutinhos até que apareça a seguinte linha de comando: "Digite o termo de pesquisa:"
